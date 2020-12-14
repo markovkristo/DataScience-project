@@ -23,3 +23,6 @@ In the main code we have methods get_group_result which calculates every group g
     9) So we do all that again but instead of 8 matches we have 4 matches and so on until we have only one game remaining and thats the final.
     
     Basically steps vi-viii will be reapeated until the end.
+
+10. After the main code we take all the info and make 2 bar charts. One about each participating country scored and conceded goals. 
+Another about how many times which country won(if there isn't some of the countries on the bar chart then it's because they didn't win this tournament a single time).(PS code about the first bar chart must be run 2 times, then it will be in normal size).
