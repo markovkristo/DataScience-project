@@ -21,4 +21,5 @@ In the main code we have methods get_group_result which calculates every group g
     7) We are going to loop that 2D array through and use on every match method get_match_result which is going to decide the winner of the match. 
     8) We add that winner to new list which is going to include the next rount participants.
     9) So we do all that again but instead of 8 matches we have 4 matches and so on until we have only one game remaining and thats the final.
-    Basically steps 6-8 will be reapeated until the end.
+    
+    Basically steps vi-iix will be reapeated until the end.
