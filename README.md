@@ -1,4 +1,4 @@
-Link to Google Colab: https://github.com/pellehol/DataScienceProject.git
+Link to Google Colab: https://colab.research.google.com/drive/1T7k1cevLTDdQh1Oqe4_ldCxmdiAsgPHY?usp=sharing
 
 1. Firstly read the results.csv file
 2. Remove all rows which don't contain words FIFA or UEFA.
